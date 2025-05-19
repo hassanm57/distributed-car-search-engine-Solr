@@ -17,9 +17,7 @@ A distributed search engine for car reviews, built with Python, FastAPI, Apache 
 ### Prerequisites
 
 - Docker & Docker Compose
-- Python 3.x
-- Node.js (if running frontend manually)
-
+- Python 3.xx
 ### Run the App
 
 ```bash
